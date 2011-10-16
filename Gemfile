@@ -12,7 +12,7 @@ gem 'jquery-rails', '>= 0.2.6'
 
 group :development do
 	gem 'rspec-rails', '2.3.0'
-	gem 'annotate-models', '1.0.4'
+	gem 'annotate'
 	gem 'faker', '0.3.1'
 end
 
